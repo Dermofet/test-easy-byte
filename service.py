@@ -2,11 +2,8 @@ import re
 from typing import List
 
 import httpx
-from telegram import Update
-from telegram.ext import ContextTypes
 
 import answers
-from logger import logger
 from settings import settings
 
 

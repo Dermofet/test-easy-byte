@@ -21,7 +21,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/ваш_пользователь/ваш_проект.git
+    git clone https://github.com/Dermofet/test-easy-byte.git
     ```
 
 2. Установите зависимости:
@@ -29,6 +29,14 @@
     ```bash
     pip install -r requirements.txt
     ```
+## Зависимости
+
+- python = 3.12.1
+- loguru = 0.7.2
+- pydantic = 2.6.1
+- pydantic-settings = 2.1.0
+- python-dotenv = 1.0.1
+- python-telegram-bot = 20.8
 
 ## Использование
 
